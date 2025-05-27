@@ -1,0 +1,8 @@
+[
+  {
+    "name": "Ner Rule",
+    "condition_type": "subject",
+    "condition_value": "Hii",
+    "folder": "Project"
+  }
+]
